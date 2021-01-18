@@ -310,5 +310,9 @@ Finally I am in the training step:
 
 ![im30](https://user-images.githubusercontent.com/30235603/104626099-c8911800-5695-11eb-83a2-5209d262695d.png)
 
-**Unfortunately** my pc doesn't have enough RAM so because of that I can not train my model :( but I will figure out that as soon as possible.
+After 5 epochs of training, as you can see we got really reasonable accuracy.
 
+![training](https://user-images.githubusercontent.com/30235603/104920135-a4844e00-5997-11eb-8c54-df0c9c1546da.png)
+
+
+**Actually** I would make model better but my pc doesn't have enough space and RAM. 
